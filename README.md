@@ -8,9 +8,9 @@ Proyek ini merupakan submission untuk kursus "Belajar Analisis Data dengan Pytho
 
 ## Cara Menggunakan
 
-conda create --name Dashboard.py python=3.11
-conda activate Dashboard.py
-pip install pandas scipy matplotlib seaborn jupyter streamlit sklearn
+- conda create --name Dashboard.py python=3.11
+- conda activate Dashboard.py
+- pip install pandas scipy matplotlib seaborn jupyter streamlit sklearn
 
 ## Run steamlit app
 
